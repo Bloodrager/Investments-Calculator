@@ -1,0 +1,20 @@
+.header {
+    text-align: center;
+    margin: 5rem auto;
+  }
+  
+  .header img {
+    width: 5rem;
+    height: 5rem;
+    object-fit: contain;
+    background-color: transparent;
+  }
+  
+  .header h1 {
+    font-size: 2rem;
+    color: #008cff;
+  }
+  
+  .header h1 strong {
+    color: #000000;
+  }
